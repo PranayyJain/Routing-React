@@ -1,4 +1,5 @@
 {
+  "homepage": "https://PranayyJain.github.io/Routing-React",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -33,6 +34,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "react-router-dom": "^7.0.2"
   }
 }
